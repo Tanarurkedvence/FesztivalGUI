@@ -1,0 +1,16 @@
+1	Napfény Fesztivál	Szeged	Csongrád-Csanád	2003	45	12900
+2	Tisza-parti Zenenapok	Szolnok	Jász-Nagykun-Szolnok	2009	18	6500
+3	Borok Hétvégéje	Eger	Heves	1998	32	8900
+4	Szélmalom Fesztivál	Szombathely	Vas	2012	21	7400
+5	Városnapi Ünnep	Debrecen	Hajdú-Bihar	1991	120	0
+6	Fényár Éjszaka	Székesfehérvár	Fejér	2015	38	5500
+7	Kéktó Sziget Fesztivál	Balatonfüred	Veszprém	2006	64	15900
+8	Retró Rock Maraton	Miskolc	Borsod-Abaúj-Zemplén	2001	27	9900
+9	Szent Mihály Napok	Pécs	Baranya	1995	55	0
+10	Gyermeknap	Gyula	Békés	2010	14	2900
+11	Gasztro Hétvége	Győr	Győr-Moson-Sopron	2014	41	4900
+12	Jazz a Parkban	Budapest	Budapest	2000	88	11900
+13	Szerenád a Várban	Sopron	Győr-Moson-Sopron	2008	19	8500
+14	Folk Tavasz	Kecskemét	Bács-Kiskun	1999	23	3900
+15	Szilvaszüret	Nyíregyháza	Szabolcs-Szatmár-Bereg	2011	29	3500
+16	Szabadtéri Mesenapok	Szeged	Csongrád-Csanád	2004	36	7900
